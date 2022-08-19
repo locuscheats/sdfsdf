@@ -364,4 +364,4 @@ end
 
 --// Load
 
-Load(); SendNotification(Title, "Aimbot script successfully loaded! Check the GitHub page on how to configure the script.", 5)
+Load();
